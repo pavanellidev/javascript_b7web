@@ -1,0 +1,54 @@
+body {
+   background-color: #eeeeee;
+}
+
+#titulo {
+   width: 300px;
+}
+
+input [type=text] {
+   padding: 10px;
+   font-size: 14px;
+}
+
+.azul {
+   background-color: #0000ff;
+   color: wheat;
+}
+
+.vermelho {
+   background-color: red;
+   color: wheat;
+}
+
+.verde {
+   background-color: green;
+   color: black;
+}
+
+#btn-blue {
+   background-color: rgba(0, 0, 255, 0.810);
+   color: white;
+   font-weight: bolder;
+   padding: 10px 25px;
+   border-radius: 10px;
+   cursor: pointer;
+}
+
+#btn-red {
+   background-color: rgba(255, 0, 0, 0.810);
+   color: white;
+   font-weight: bolder;
+   padding: 10px 16px;
+   border-radius: 10px;
+   cursor: pointer;
+}
+
+#btn-green {
+   background-color: rgba(0, 128, 0, 0.810);
+   color: white;
+   font-weight: bolder;
+   padding: 10px 25px;
+   border-radius: 10px;
+   cursor: pointer;
+}
